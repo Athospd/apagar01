@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 
 # apagar01
 
-Este readme atualiza toda vez que o README.Rmd eh atualizado!!!
+Este readme atualiza toda vez que o README.Rmd eh atualizado.
 
 ```{r}
 Sys.time()
